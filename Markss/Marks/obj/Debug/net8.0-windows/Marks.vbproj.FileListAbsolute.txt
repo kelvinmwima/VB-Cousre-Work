@@ -1,0 +1,101 @@
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\bin\Debug\net8.0-windows\Marks.exe
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\bin\Debug\net8.0-windows\Marks.deps.json
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\bin\Debug\net8.0-windows\Marks.runtimeconfig.json
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\bin\Debug\net8.0-windows\Marks.dll
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\bin\Debug\net8.0-windows\Marks.pdb
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.Form1.resources
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.vbproj.GenerateResource.cache
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfoInputs.cache
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfo.vb
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.vbproj.CoreCompileInputs.cache
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.dll
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\refint\Marks.dll
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.pdb
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.genruntimeconfig.cache
+C:\Users\JANVIER ARMSTRONG\Desktop\Marks\Marks\obj\Debug\net8.0-windows\ref\Marks.dll
+D:\new\Marks\Marks\bin\Debug\net8.0-windows\Marks.exe
+D:\new\Marks\Marks\bin\Debug\net8.0-windows\Marks.deps.json
+D:\new\Marks\Marks\bin\Debug\net8.0-windows\Marks.runtimeconfig.json
+D:\new\Marks\Marks\bin\Debug\net8.0-windows\Marks.dll
+D:\new\Marks\Marks\bin\Debug\net8.0-windows\Marks.pdb
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\Marks.Form1.resources
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\Marks.vbproj.GenerateResource.cache
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\Marks.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfoInputs.cache
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfo.vb
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\Marks.vbproj.CoreCompileInputs.cache
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\Marks.dll
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\refint\Marks.dll
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\Marks.pdb
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\Marks.genruntimeconfig.cache
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\ref\Marks.dll
+D:\new\Marks\Marks\obj\Debug\net8.0-windows\Marks.sourcelink.json
+H:\Marks\Marks\bin\Debug\net8.0-windows\Marks.exe
+H:\Marks\Marks\bin\Debug\net8.0-windows\Marks.deps.json
+H:\Marks\Marks\bin\Debug\net8.0-windows\Marks.runtimeconfig.json
+H:\Marks\Marks\bin\Debug\net8.0-windows\Marks.dll
+H:\Marks\Marks\bin\Debug\net8.0-windows\Marks.pdb
+H:\Marks\Marks\obj\Debug\net8.0-windows\Marks.Form1.resources
+H:\Marks\Marks\obj\Debug\net8.0-windows\Marks.vbproj.GenerateResource.cache
+H:\Marks\Marks\obj\Debug\net8.0-windows\Marks.GeneratedMSBuildEditorConfig.editorconfig
+H:\Marks\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfoInputs.cache
+H:\Marks\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfo.vb
+H:\Marks\Marks\obj\Debug\net8.0-windows\Marks.vbproj.CoreCompileInputs.cache
+H:\Marks\Marks\obj\Debug\net8.0-windows\Marks.sourcelink.json
+H:\Marks\Marks\obj\Debug\net8.0-windows\Marks.dll
+H:\Marks\Marks\obj\Debug\net8.0-windows\refint\Marks.dll
+H:\Marks\Marks\obj\Debug\net8.0-windows\Marks.pdb
+H:\Marks\Marks\obj\Debug\net8.0-windows\Marks.genruntimeconfig.cache
+H:\Marks\Marks\obj\Debug\net8.0-windows\ref\Marks.dll
+C:\Users\HP\Desktop\Marks\Marks\bin\Debug\net8.0-windows\Marks.exe
+C:\Users\HP\Desktop\Marks\Marks\bin\Debug\net8.0-windows\Marks.deps.json
+C:\Users\HP\Desktop\Marks\Marks\bin\Debug\net8.0-windows\Marks.runtimeconfig.json
+C:\Users\HP\Desktop\Marks\Marks\bin\Debug\net8.0-windows\Marks.dll
+C:\Users\HP\Desktop\Marks\Marks\bin\Debug\net8.0-windows\Marks.pdb
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.Form1.resources
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfo.vb
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.sourcelink.json
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.dll
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\refint\Marks.dll
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.pdb
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\Marks.genruntimeconfig.cache
+C:\Users\HP\Desktop\Marks\Marks\obj\Debug\net8.0-windows\ref\Marks.dll
+D:\Marks - Copy\Marks\bin\Debug\net8.0-windows\Marks.exe
+D:\Marks - Copy\Marks\bin\Debug\net8.0-windows\Marks.deps.json
+D:\Marks - Copy\Marks\bin\Debug\net8.0-windows\Marks.runtimeconfig.json
+D:\Marks - Copy\Marks\bin\Debug\net8.0-windows\Marks.dll
+D:\Marks - Copy\Marks\bin\Debug\net8.0-windows\Marks.pdb
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.Form1.resources
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.vbproj.GenerateResource.cache
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfoInputs.cache
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfo.vb
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.vbproj.CoreCompileInputs.cache
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.sourcelink.json
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.dll
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\refint\Marks.dll
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.pdb
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.genruntimeconfig.cache
+D:\Marks - Copy\Marks\obj\Debug\net8.0-windows\ref\Marks.dll
+E:\Marks - Copy\Marks\bin\Debug\net8.0-windows\Marks.exe
+E:\Marks - Copy\Marks\bin\Debug\net8.0-windows\Marks.deps.json
+E:\Marks - Copy\Marks\bin\Debug\net8.0-windows\Marks.runtimeconfig.json
+E:\Marks - Copy\Marks\bin\Debug\net8.0-windows\Marks.dll
+E:\Marks - Copy\Marks\bin\Debug\net8.0-windows\Marks.pdb
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.Form1.resources
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.vbproj.GenerateResource.cache
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfoInputs.cache
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfo.vb
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.vbproj.CoreCompileInputs.cache
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.sourcelink.json
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.dll
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\refint\Marks.dll
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.pdb
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\Marks.genruntimeconfig.cache
+E:\Marks - Copy\Marks\obj\Debug\net8.0-windows\ref\Marks.dll
